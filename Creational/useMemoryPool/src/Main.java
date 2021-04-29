@@ -5,6 +5,6 @@ public class Main {
 //        gun.fire();
         gun.fireInPool();
         System.out.println("Game over");
-        System.out.println("Tocal bullet created: " + Bullet.count);
+        System.out.println("Total bullet created: " + Bullet.count);
     }
 }
